@@ -91,7 +91,7 @@ The system produces the following outputs:
 3. **Traffic Heatmap**
    
    * Visualization of regions where vehicles appear frequently
-     (traffic_heatmap.png)
+     ![Traffic Heatmap](traffic_heatmap.png)
 
 These results demonstrate how computer vision techniques can be used to analyze traffic patterns even under low-light conditions.
 
