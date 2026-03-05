@@ -89,7 +89,7 @@ The system produces the following outputs:
    * Vehicle count displayed on screen
 
 3. **Traffic Heatmap**
-
+   (traffiv_heatmap.png)
    * Visualization of regions where vehicles appear frequently
 
 These results demonstrate how computer vision techniques can be used to analyze traffic patterns even under low-light conditions.
